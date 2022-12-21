@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m currently learning all that I can about GitHub :octocat: (as a newbie!)
+
 <!--
 **eliza-joy/eliza-joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
